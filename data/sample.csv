@@ -1,0 +1,11 @@
+timestamp,source,level,message
+2026-01-01 08:00:01,server_01,INFO,System startup complete
+2026-01-01 08:01:14,server_01,WARNING,Memory usage at 74%
+2026-01-01 08:02:33,server_02,ERROR,Disk read failure on /dev/sdb
+2026-01-01 08:03:11,server_01,INFO,Backup job started
+2026-01-01 08:04:45,server_03,ERROR,Network timeout after 30s
+2026-01-01 08:05:02,server_02,INFO,Disk read recovered
+2026-01-01 08:06:18,server_01,WARNING,CPU spike 91% on core 3
+2026-01-01 08:07:55,server_03,INFO,Network reconnected
+2026-01-01 08:08:30,server_02,ERROR,Disk read failure on /dev/sdb again
+2026-01-01 08:09:44,server_01,INFO,Backup job complete
